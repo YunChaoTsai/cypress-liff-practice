@@ -1,0 +1,14 @@
+{
+  "name": "cypress-liff",
+  "version": "1.0.0",
+  "description": "cypress test liff practice",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^4.3.0"
+  }
+}
